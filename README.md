@@ -3,6 +3,9 @@
 - 💻 Aprendendo HTML, CSS e Python
 - 😄 Pronouns: ela/dela
 - 🌸 Sempre buscando melhorar  
+- 📌“Pessoas quietas têm as mentes mais barulhentas.”
+
+
 <!--
 Here are some ideas to get you started:
 
