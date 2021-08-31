@@ -1,4 +1,4 @@
-### Hi there 👋
+## Oi! Meu nome é Larissa!  👋
 
 <!--
 Here are some ideas to get you started:
@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Oi! Meu nome é Larissa! 
+ 
  <div>
   <a href="https://github.com/LarissaMarquesPimenta">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LarissaMarquesPimenta&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
