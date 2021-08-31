@@ -1,5 +1,8 @@
-## Oi! Meu nome é Larissa!  👋
-
+## Oi! Meu nome é Larissa! 👋
+- 📚 Cursando Matemática Aplicada e Computacional na Universidade de São Paulo (USP)
+- 💻 Aprendendo HTML, CSS e Python
+- 😄 Pronouns: ela/dela
+- 🌸 Sempre buscando melhorar  
 <!--
 Here are some ideas to get you started:
 
