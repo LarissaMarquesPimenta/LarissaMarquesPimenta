@@ -1,7 +1,7 @@
 ## Oi! Meu nome é Larissa! 👋
 - 📚 Cursando Matemática Aplicada e Computacional na Universidade de São Paulo (USP)
 - 💻 Futura desenvolvedora Java FullStack - Generation Brasil 
-- 😄 Pronouns: ela/dela
+- 😄 Pronomes: ela/dela
 - 🌸 Sempre buscando melhorar  
 - 📌“Pessoas quietas têm as mentes mais barulhentas.”
 
