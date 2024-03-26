@@ -1,5 +1,6 @@
 ## Oi! Meu nome é Larissa! 👋
 - 📚 Cursando Matemática Aplicada e Computacional na Universidade de São Paulo (USP)
+- 📈 Data Scientist 
 - 💻 Desenvolvedora Java FullStack - Generation Brasil 
 - 😄 Pronomes: ela/dela
 - 🌸 Sempre buscando melhorar  
